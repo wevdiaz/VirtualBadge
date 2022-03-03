@@ -85,3 +85,62 @@ ul {
     clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
 }
 
+@media (min-width: 1401px) {
+
+    body {
+        background-color: #333;
+    }
+
+    main {
+        background: none;
+    }
+
+    .container {
+        margin-top: 2rem;        
+    }
+
+    ul {
+        margin-top: 1rem;
+    }
+}
+
+@media (max-width: 1400px) {
+    body {
+        overflow: hidden;
+        background-color: #333;
+    }    
+
+    main {
+        background: none;
+    }
+
+    .avatar > img {
+        margin-top: 0.71rem;
+    }
+
+    ul {
+        margin-top: 1rem;
+    }
+
+    p {
+        margin-top: 2rem;
+    }
+}
+
+
+@media (max-width: 600px) {
+    main {
+        background: url(../assets/images/background.svg) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px;
+        height: 100vh;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin-top: -5rem;
+    }
+}
