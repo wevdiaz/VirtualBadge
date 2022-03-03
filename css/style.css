@@ -12,11 +12,14 @@ body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
+    overflow-y: hidden;
 }
 
 body {
     display: grid;
-    place-items: center;    
+    place-items: center;
+    background-image: url(../assets/images/Desktop_Background.png);
+    background-size: cover;    
 }
 
 main {
