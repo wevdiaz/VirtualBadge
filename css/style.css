@@ -19,6 +19,8 @@ body {
     display: grid;
     place-items: center;
     background-image: url(../assets/images/Desktop_Background.png);
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;    
 }
 
