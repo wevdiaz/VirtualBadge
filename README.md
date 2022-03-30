@@ -2,6 +2,12 @@
 
 ***
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/wevdiaz/VirtualBadge/main/assets/images/cracha.gif">
+</p>
+
+***
+
  <p align="center">  
       <a>
           <img src="https://img.shields.io/github/repo-size/wevdiaz/VirtualBadge?color=%23f9ca24">        
