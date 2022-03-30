@@ -3,7 +3,7 @@
 ***
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/wevdiaz/VirtualBadge/main/assets/images/cracha.gif">
+    <img src="https://raw.githubusercontent.com/wevdiaz/VirtualBadge/main/assets/images/cracha_virtual.gif">
 </p>
 
 ***
